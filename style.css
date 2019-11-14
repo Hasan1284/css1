@@ -5,8 +5,11 @@
 
 #image
 {
-    width: 1200px;
-    height: 150px;
+    /* width: 5px;
+    height: 7px; */
+    max-width: 5%;
+    height: auto;
+    transform: scale(0.3, 0.4);
 }
 table {
   border-radius: initial;
